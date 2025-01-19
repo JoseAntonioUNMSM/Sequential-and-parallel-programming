@@ -1,7 +1,6 @@
 # **Programación Secuencial y Paralela para el Ordenamiento de Cartas**
 
-Este proyecto implementa y compara algoritmos de ordenamiento secuencial y paralelo para un conjunto masivo de barajas de cartas (54 cartas por baraja). El objetivo principal es demostrar cómo la paralelización puede reducir significativamente el tiempo necesario para ordenar grandes volúmenes de datos.
-
+Este programa implementa un ordenamiento secuencial y paralelo para una cantidad definida de barajas de cartas (54 cartas por baraja). El objetivo principal es corroborar si al usar el ordenamiento en paralelo se puede reducir el tiempo necesario para ordenar una gran cantidad de cartas.
 El programa utiliza el algoritmo **MergeSort** para realizar el ordenamiento de las cartas, distribuyéndolas primero por palo y luego en orden ascendente dentro de cada palo. Los palos están clasificados en el siguiente orden: **corazones**, **tréboles**, **espadas**, **diamantes** y, finalmente, **jokers**.
 
 ---
@@ -46,17 +45,3 @@ El repositorio incluye los siguientes archivos y módulos clave:
 
 ---
 
-## **Requisitos del Sistema**
-
-Para ejecutar este proyecto, necesitas:
-
-- Python 3.8 o superior.
-- Módulos estándar de Python: `multiprocessing`, `time`, `random`.
-
----
-
-## **Cómo Ejecutar el Proyecto**
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/JoseAntonioUNMSM/Sequential-and-parallel-programming.git
