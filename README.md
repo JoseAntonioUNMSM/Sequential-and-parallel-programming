@@ -1,7 +1,7 @@
 # **Programación Secuencial y Paralela para el Ordenamiento de Cartas**
 
 Este programa implementa un ordenamiento secuencial y paralelo para una cantidad definida de barajas de cartas (54 cartas por baraja). El objetivo principal es corroborar si al usar el ordenamiento en paralelo se puede reducir el tiempo necesario para ordenar una gran cantidad de cartas.
-El programa utiliza el algoritmo **MergeSort** para realizar el ordenamiento de las cartas, distribuyéndolas primero por palo y luego en orden ascendente dentro de cada palo. Los palos están clasificados en el siguiente orden: **corazones**, **tréboles**, **espadas**, **diamantes** y, finalmente, **jokers**.
+El programa utiliza el algoritmo **MergeSort** para realizar el ordenamiento de las cartas, distribuyéndolas primero por palo y luego en orden ascendente dentro de cada palo. Los palos están clasificados en el siguiente orden: **corazones**, **tréboles**, **espadas**, **diamantes** y finalmente los **jokers**.
 
 ---
 
