@@ -4,7 +4,7 @@ Este proyecto demuestra la implementación de algoritmos de ordenamiento secuenc
 
 ## Diagrama del Proyecto
 
-![Diagrama del proyecto](imagenes/diagrama.png)
+![Diagrama del proyecto](imagenes/programa.png)
 
 ## Contenido
 - `Main.py`: Archivo principal.
