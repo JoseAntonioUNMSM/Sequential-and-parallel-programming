@@ -6,7 +6,6 @@ El programa utiliza el algoritmo **MergeSort** para realizar el ordenamiento de 
 ---
 
 ## **Comparación**
-El proyecto evidencia que:
 - **Ordenamiento secuencial**: Consume más tiempo debido a la ejecución en un solo núcleo de procesamiento.
 - **Ordenamiento paralelo**: Reduce el tiempo total de ejecución al distribuir el trabajo entre múltiples procesos.
   
